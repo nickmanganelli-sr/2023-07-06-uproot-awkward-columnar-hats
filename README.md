@@ -1,8 +1,8 @@
-# 2021-06-14-uproot-awkward-columnar-hats
+# 2022-08-01-uproot-awkward-columnar-hats
 
-Tutorials for Uproot Awkward Columnar HATS, a hands-on tutorial hosted by the [Fermilab LPC](https://lpc.fnal.gov) on June 14, 2021 from 12:30 to 3:30 U.S. Central.
+Tutorials for Uproot Awkward Columnar HATS, a hands-on tutorial hosted by the [Fermilab LPC](https://lpc.fnal.gov) on August 1, 2022 from 10:30 to 1:00 U.S. Central.
 
-See the [event page for videoconferencing details](https://indico.cern.ch/event/1042866/).
+See the [event page for videoconferencing details](https://indico.cern.ch/event/1186603/).
 
 ## How to participate
 
@@ -11,12 +11,12 @@ Run the JupyterLab code with us, altering examples and asking "what if" question
 The preferred way to run these notebooks is through a public cloud service called Binder:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/jpivarski-talks/2021-06-14-uproot-awkward-columnar-hats/v1.2?urlpath=lab">
+  <a href="https://mybinder.org/v2/gh/NJManganelli/2021-08-01-uproot-awkward-columnar-hats/v1.3?urlpath=lab">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
 
-Navigate in the JupyterLab file view (left sidebar) to the desired lesson. Note that Binder cannot save data permanently (reloading your web browser will take you to a new instance), and it may take up to a minute to start up.
+Navigate in the JupyterLab file view (left sidebar) to the desired lesson. Note that Binder has limited save functionalityy (reloading your web browser will take you to a new instance, nominally), and it may take up to a minute to start up.
 
 ## Running everything on your own computer
 
