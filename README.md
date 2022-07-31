@@ -11,7 +11,7 @@ Run the JupyterLab code with us, altering examples and asking "what if" question
 The preferred way to run these notebooks is through a public cloud service called Binder:
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/NJManganelli/2021-08-01-uproot-awkward-columnar-hats/v1.3?urlpath=lab">
+  <a href="https://mybinder.org/v2/gh/nickmanganelli-sr/2022-08-01-uproot-awkward-columnar-hats/v1.4">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
   </a>
 </p>
@@ -22,9 +22,13 @@ Navigate in the JupyterLab file view (left sidebar) to the desired lesson. Note 
 
 This course will not cover installation of the software, but everything can be installed with pip or conda, standard mechanisms for installing Python packages. See [requirements.txt](requirements.txt) for a list of pip package names.
 
+## Running everything on SWAN
+
+The notebooks here are largely compatible with the LCG_102 (swan) stack, which can be started from [swan.cern.ch](https://swan.cern.ch). An old version of numba prevents the last cell of the awkward demo from working, showing numba-jitted functions running on awkward+vector.
+
 ## Browsing the material online
 
-The cells of the JupyterLab notebooks are deliberately unevaluated—we will discover their output during the tutorial. However, if you're coming here after the event and want to look up how we did something, see the [evaluated](evaluated) directory for evaluated versions of both notebooks.
+The cells of the JupyterLab notebooks are deliberately unevaluated—we will discover their output during the tutorial. However, if you're coming here after the event and want to look up how we did something, see the [evaluated2021](evaluated2021) directory for evaluated versions of the three notebooks from the 2021 LPC HATS, and eventually [evaluated](evaluated) for the 2022 HATS notebooks.
 
 ## Uprooting hats that are awkwardly columnar
 
